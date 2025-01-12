@@ -1,4 +1,4 @@
-## Hola, mi nombre es Paulina Vasquez
+## Hola, mi nombre es Paulina Vasquez👋
 Soy estudiante
 <!--
 **PaulinaVasquez/paulinavasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
